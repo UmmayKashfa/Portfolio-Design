@@ -1,0 +1,28 @@
+body{
+    font-family: "Open Sans", sans-serif;
+}
+.btn-primary{
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    color: #ffffff;
+}
+/* Nav related design */
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+nav h3{
+    font-size: 45px;
+}
+nav > ul {
+    display: flex;
+}
+nav li {
+   list-style: none;
+    margin-right: 60px;
+}
+nav li a {
+    text-decoration: none;
+}
